@@ -13,4 +13,6 @@ If you don’t see it: .vscode is a hidden folder, so it won’t show up when yo
 
 If you use macOS or Linux: the folder is ~/.vscode/extensions. In a terminal, run open ~/.vscode/extensions on Mac or xdg-open ~/.vscode/extensions on Linux
 ha 
+
+
 <img width="1917" height="1138" alt="image" src="https://github.com/user-attachments/assets/22f7497b-3d7c-4a60-a100-2ee1d31123ac" />
